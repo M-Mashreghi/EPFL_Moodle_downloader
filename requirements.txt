@@ -1,0 +1,6 @@
+requests>=2.31
+keyring>=24
+playwright>=1.45
+yt-dlp[default]>=2026.1.0
+yt-dlp-ejs
+imageio-ffmpeg>=0.5

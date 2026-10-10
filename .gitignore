@@ -1,0 +1,16 @@
+# Build output and the packaged program
+.venv/
+build/
+dist/
+*.exe
+*.spec
+__pycache__/
+*.pyc
+
+# Personal data, in case the download folder is inside this project
+.moodle-downloader/
+_Could not download.html
+
+# Leftovers from updates
+update.b64
+update.zip
